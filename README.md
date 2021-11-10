@@ -1,2 +1,2 @@
-# ApiPollingDemo
+# React-Polling-Demo
 Created with CodeSandbox
